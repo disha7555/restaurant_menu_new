@@ -38,7 +38,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/pizza_new.jpg",
+    image: "../images/Pizza_new.jpg",
     name: "Pizza",
     category: ["dinner","lunch"],
     price: "180₹",
